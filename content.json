@@ -1,1 +1,8 @@
-{}
+{
+  "custom-field": "Title",
+  "custom-list": [
+    {
+      "custom-list-item": "Content"
+    }
+  ]
+}
